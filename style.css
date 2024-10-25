@@ -1,0 +1,25 @@
+h1{
+    color:blueviolet;
+    background-color:aqua;
+}
+h2{
+    color:brown;
+    background-color:yellowgreen;
+
+}
+.heading{
+    color:blue;
+    background-color:yellow;
+
+}
+ #heading{
+    color:brown;
+    background-color: yellow;
+ }
+
+.para{
+    color:black;
+}
+#ptag{
+    background-color: green;
+}
